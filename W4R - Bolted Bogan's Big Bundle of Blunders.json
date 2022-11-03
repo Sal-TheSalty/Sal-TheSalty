@@ -3,8 +3,16 @@
   "description": "What happens when a centuries old robot and his surrogate daughter of a murder and stabbing get caught in the middle of a war for the ages? I'unno read the comics I guess.",
   "artist": "SalTheSalty - Ziyanthus - Sloof",
   "author": "SalTheSalty",
-  "cover": "https://imgur.com/BTaTz9I",
+  "cover": "/proxy/api/imgur/chapter/AvDCgIM",
   "chapters": {
+    "0": {
+      "title": "BOLTED BOGAN'S BIG BUNDLE OF BLUNDERS",
+      "volume": "1",
+      "last_updated": "1667470089",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/AvDCgIM"
+      }
+    },
     "1": {
       "title": "BOLTED BOGAN : THE INTRODUCTION",
       "volume": "1",
