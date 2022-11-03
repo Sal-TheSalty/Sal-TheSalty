@@ -3,7 +3,7 @@
   "description": "What happens when a centuries old robot and his surrogate daughter of a murder and stabbing get caught in the middle of a war for the ages? I'unno read the comics I guess.",
   "artist": "SalTheSalty - Ziyanthus - Sloof",
   "author": "SalTheSalty",
-  "cover": "https://i.imgur.com/0Bg7f5r.png",
+  "cover": "<blockquote class=\"imgur-embed-pub\" lang=\"en\" data-id=\"a/AvDCgIM\"  ><a href=\"//imgur.com/a/AvDCgIM\">WAR FOR RAYUBA : BOLTED BOGAN&#39;S BIG BUNDLE OF BLUNDERS</a></blockquote><script async src=\"//s.imgur.com/min/embed.js\" charset=\"utf-8\"></script>",
   "chapters": {
     "1": {
       "title": "BOLTED BOGAN : THE INTRODUCTION",
@@ -11,6 +11,38 @@
       "last_updated": "1667461749",
       "groups": {
         "{": "/proxy/api/imgur/chapter/qZsIu3w"
+      }
+    },
+    "2": {
+      "title": "BOLTED BOGAN : LOVE AND WAR",
+      "volume": "1",
+      "last_updated": "1667469748",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/pm6MkVt"
+      }
+    },
+    "3": {
+      "title": "BOLTED BOGAN : BALLADS AND BEATDOWNS",
+      "volume": "1",
+      "last_updated": "1667469786",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/6Mj0pDc"
+      }
+    },
+    "4": {
+      "title": "BOLTED BOGAN, SAM HOFFMAN AND MORE : SUPER-MASSIVE BLACKHOLE",
+      "volume": "1",
+      "last_updated": "1667469835",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/4TorKem"
+      }
+    },
+    "5": {
+      "title": "BOLTED BOGAN : OUT BACK AT THE END OF RAYUBA",
+      "volume": "1",
+      "last_updated": "1667469932",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/wvV68eb"
       }
     }
   }
