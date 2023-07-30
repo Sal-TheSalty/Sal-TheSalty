@@ -1,7 +1,7 @@
 {
   "title": "Goku Royale - Toker's Travels Through Terrains Tainted by Trials and Tribulations",
   "description": "De Toker.",
-  "artist": "Sal.TheSalty - RexRissole - RebelTaxi - PopCatCalamari",
+  "artist": "Sal.TheSalty - RexRissole - RebelTaxi - PopCatCalamari - Mithril - Slugbank",
   "author": "Sal.TheSalty",
   "cover": "https://i.imgur.com/hfbwSpQ.png",
   "chapters": {
@@ -10,7 +10,87 @@
       "volume": "1",
       "last_updated": "1690683805",
       "groups": {
-        "{": "/proxy/api/imgur/chapter/kefw5zF"
+        "{": "/proxy/api/imgur/chapter/MjoVDA9"
+      }
+    },
+    "1": {
+      "title": "TOKERS TRAVELS: TWO TWILIGHTS AT TOKERS",
+      "volume": "1",
+      "last_updated": "1690684460",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/uUVdgxT"
+      }
+    },
+    "2": {
+      "title": "TOKERS TRAVELS: BOTS AND BUDS",
+      "volume": "1",
+      "last_updated": "1690684556",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/0mW4PyT"
+      }
+    },
+    "3": {
+      "title": "TOKERS TRAVELS: TWO PUFFS AND A PASSING",
+      "volume": "1",
+      "last_updated": "1690684842",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/YnznWnL"
+      }
+    },
+    "4": {
+      "title": "TOKERS TRAVELS: A THOUSAND WEEDS UNDER THE SEA (Written and Illustrated by RexRissole)",
+      "volume": "1",
+      "last_updated": "1690684872",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/v5fRy6z"
+      }
+    },
+    "5": {
+      "title": "TOKERS TRAVELS: THE ONE WHERE HE BECOMES TWO FACE",
+      "volume": "1",
+      "last_updated": "1690685233",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/B7t11Ep"
+      }
+    },
+    "6": {
+      "title": "TOKERS TRAVLES: BARBEQUES AND BEATINGS AT BOB-OMB BATTLEFIELD",
+      "volume": "1",
+      "last_updated": "1690685266",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/u311Bge"
+      }
+    },
+    "7": {
+      "title": "TOKERS TRAVELS: A STONER, FATHER, BALLER AND MEAT-CHILD WALK INTO A RIP IN SPACETIME",
+      "volume": "1",
+      "last_updated": "1690685303",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/9jUh3kM"
+      }
+    },
+    "8": {
+      "title": "TOKERS TRAVELS: UNBELIEVABELY AND EXTREMELY UNLIKELY ALLIES (Written and Illustrated by RebelTaxi)",
+      "volume": "1",
+      "last_updated": "1690685415",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/Pzpp0v6"
+      }
+    },
+    "9": {
+      "title": "TOKERS TRAVELS: CLOSING THE BOOK (Co-Written and Illustrated by PopCatCalamari and SalTheSalty)",
+      "volume": "1",
+      "last_updated": "1690685492",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/743oJc1"
+      }
+    },
+    "10": {
+      "title": "TOKERS TRAVELS: REQUIEM FOR A DUNK (Co-Written and Illustrated by RexRissole, Mithryl, SlugBank and RebelTaxi)",
+      "volume": "1",
+      "last_updated": "1690685560",
+      "groups": {
+        "{": "/proxy/api/imgur/chapter/NBQhsmz"
       }
     }
   }
