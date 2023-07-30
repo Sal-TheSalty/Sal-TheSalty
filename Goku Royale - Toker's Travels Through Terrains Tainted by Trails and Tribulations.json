@@ -3,6 +3,15 @@
   "description": "De Toker.",
   "artist": "Sal.TheSalty - RexRissole - RebelTaxi - PopCatCalamari",
   "author": "Sal.TheSalty",
-  "cover": "",
-  "chapters": {}
+  "cover": "https://i.imgur.com/c7v28Xz.png",
+  "chapters": {
+    "0": {
+      "title": "TOKERS TRAVELS : THE INTRODUCTION",
+      "volume": "1",
+      "last_updated": "1690683805",
+      "groups": {
+        "{": "https://cubari.moe/read/imgur/MjoVDA9/1/1/"
+      }
+    }
+  }
 }
